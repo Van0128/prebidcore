@@ -1,0 +1,4 @@
+rootProject.name='Library Prebid'
+include ':app'
+include ':vlilibrary'
+include ':vlilibrary:prebidcore'
